@@ -1,0 +1,52 @@
+.funny-glasses {
+    position: relative;
+    left:213px;
+    bottom: 105px;
+}
+
+.sunglasses {
+    position: relative;
+    left: 213px;
+    bottom: 25px;
+}
+
+.monocle {
+    position:relative;
+    left: 255px;
+    top: 40px;
+
+}
+
+.bowtie {
+    position: relative;
+    right: 70px;
+}
+
+.collar {
+    position: relative;
+    right: 120px;
+    top: 10px;
+}
+
+.bandana {
+    position: relative;
+    bottom: 67px;
+    right: 118px;
+}
+
+.pawprint {
+    position: fixed;
+    top: 45px;
+    left: 65px;
+}
+
+.luna {
+position: sticky;
+left: 0;
+}
+
+.top-hat {
+    position: relative;
+    z-index: 1;
+
+}
